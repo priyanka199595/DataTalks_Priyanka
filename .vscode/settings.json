@@ -1,0 +1,4 @@
+{
+    "debug.node.autoAttach": "off",
+    "python.linting.enabled": false
+}
