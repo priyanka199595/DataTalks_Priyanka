@@ -1,4 +1,7 @@
 Data Talks project:
+
+you have to run new2.py:    streamlit run new2.py
+
 here we r using Data Analytics . 
 Data Analytic is techniques to analyze data to enhance productivity and business profit.
 Many content streaming website can use data analytics to survive in this comptitive envrmnt
